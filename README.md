@@ -16,15 +16,11 @@ This is actually an CS50 project which I am posting here with some minor changes
 
 ### Features
 
-- Latest and updated login pages.
+- Latest
 - Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Ngrok
-  - Cloudflared
-  - LocalXpose
-- Mask URL support 
-- Docker support
+- Easy to <b>Make</b>,<b>Learn</b>,<b>Play</b>
+- Created in <i>Python</i>
+- 
 
 ##
 
