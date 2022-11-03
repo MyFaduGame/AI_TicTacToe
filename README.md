@@ -20,7 +20,6 @@ This is actually an CS50 project which I am posting here with some minor changes
 - Beginners friendly
 - Easy to <b>Make</b>,<b>Learn</b>,<b>Play</b>
 - Created in <i>Python</i>
-- 
 
 ##
 
